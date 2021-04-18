@@ -1,5 +1,5 @@
 # Cats-vs-Dogs-CNN
-This is a model to classify whether an image that we have is a cat or dog. 
+This is a model to classify whether an image that we have is of a cat or a dog. 
 <h2>Dataset</h2>
 The Dataset is <a href="https://www.microsoft.com/en-us/download/details.aspx?id=54765">here</a>
 <h2>Model</h2>
